@@ -39,7 +39,7 @@ public class MainActivity extends Activity {
         button1.setOnClickListener(new TuanListener());
         button2.setOnClickListener(new MoreListener());
         button3.setOnClickListener(new HotelListener());
-        button4.setOnClickListener(new MapsListener());
+        //button4.setOnClickListener(new MapsListener());
         button5.setOnClickListener(new JingListener());
         button6.setOnClickListener(new FoodListener());
     }
@@ -78,16 +78,16 @@ public class MainActivity extends Activity {
     }
     
     
-    class MapsListener implements OnClickListener{
-
-		public void onClick(View v) {
-			// TODO Auto-generated method stub
-			Intent intent = new Intent();
-			intent.setClass(MainActivity.this, MapsActivity.class);
-			MainActivity.this.startActivity(intent);
-		}
-    	
-    }
+//    class MapsListener implements OnClickListener{
+//
+//		public void onClick(View v) {
+//			// TODO Auto-generated method stub
+//			Intent intent = new Intent();
+//			intent.setClass(MainActivity.this, MapsActivity.class);
+//			MainActivity.this.startActivity(intent);
+//		}
+//
+//    }
     
     class JingListener implements OnClickListener{
 

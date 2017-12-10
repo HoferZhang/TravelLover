@@ -1,0 +1,4 @@
+#Sun Dec 10 17:19:00 CST 2017
+base.0=E\:\\dev\\GitRepositories\\TravelLover\\Travel_lover\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex

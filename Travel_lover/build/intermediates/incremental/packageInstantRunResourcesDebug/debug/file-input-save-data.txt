@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Sun Dec 10 17:18:35 CST 2017
+1.base=E\:\\dev\\GitRepositories\\TravelLover\\Travel_lover\\build\\intermediates\\assets\\debug
+2.path=rect.JPG
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=E\:\\dev\\GitRepositories\\TravelLover\\Travel_lover\\build\\intermediates\\assets\\debug
+3.set=ASSET
+2.set=ASSET
+1.baseType=DIRECTORY
+3.path=blocks.png
+count=4
+1.set=ASSET
+0.path=arrow.png
+3.base=E\:\\dev\\GitRepositories\\TravelLover\\Travel_lover\\build\\intermediates\\assets\\debug
+0.set=ASSET
+0.base=E\:\\dev\\GitRepositories\\TravelLover\\Travel_lover\\build\\intermediates\\assets\\debug
+2.baseType=DIRECTORY
+1.path=test.png

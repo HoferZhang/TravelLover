@@ -1,8 +1,6 @@
 package com.travel_lover;
 
 
-import com.travel_lover.R;
-
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
@@ -46,7 +44,7 @@ public class ChangePwd extends Activity{
 					db.open();
 					if(db.update(user_name.getText().toString(), pwd.getText().toString())){
 						new AlertDialog.Builder(ChangePwd.this).setMessage(R.string.pwd_changed)
-						.setPositiveButton("È·¶¨", new DialogInterface.OnClickListener() {
+						.setPositiveButton("sure", new DialogInterface.OnClickListener() {
 							
 							public void onClick(DialogInterface dialog, int which) {
 								// TODO Auto-generated method stub
